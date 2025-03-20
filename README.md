@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 Cloning The Repo
 ```bash
-git clone https://github.com/yourusername/BrainDx.git
+git clone https://github.com/poisonkissedsk/BrainDx.git
 ```
 
 Navigate to the project directory:
